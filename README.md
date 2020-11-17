@@ -7,4 +7,7 @@ For now, the Jupyter notebooks are provided as is, and you will have to download
 
 The first chapter covers the coding examples from the first two weeks, on basic random search and local search algorithms.
 
+## Chapter 2: Evolutionary Search (Part 1)
+
+This chapter covers basic evolutionary strategies and genetic algorithms.
 
