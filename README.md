@@ -11,3 +11,8 @@ The first chapter covers the coding examples from the first two weeks, on basic 
 
 This chapter covers basic evolutionary strategies and genetic algorithms.
 
+## Chapter 3: Evolutionary Search (Part 2)
+
+This chapter looks at alternative search operators for genetic algorithms
+and their consequences on diversity and fitness.
+
