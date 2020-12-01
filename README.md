@@ -16,3 +16,7 @@ This chapter covers basic evolutionary strategies and genetic algorithms.
 This chapter looks at alternative search operators for genetic algorithms
 and their consequences on diversity and fitness.
 
+## Chapter 4: Multi-Objective Evolutionary Algorithms
+
+This chapter considers how to extend evolutionary search to more than one
+objective function.
