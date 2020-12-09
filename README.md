@@ -20,3 +20,8 @@ and their consequences on diversity and fitness.
 
 This chapter considers how to extend evolutionary search to more than one
 objective function.
+
+## Chapter 5: Search-Based Test Generation
+
+This chapter looks at the basics of search-based test generation: How to
+encode simple problems, what are fitness functions.
