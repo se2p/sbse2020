@@ -30,4 +30,4 @@ search algorithms to work well on these problems.
 ## Chapter 6: Genetic Programming
 
 This chapter introduces the basics of Genetic Programming, starting with
-classical, untyped syntax tree, up to Grammatical Evolution.
+classical, untyped syntax trees, up to Grammatical Evolution.
