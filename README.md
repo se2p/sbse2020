@@ -24,4 +24,10 @@ objective function.
 ## Chapter 5: Search-Based Test Generation
 
 This chapter looks at the basics of search-based test generation: How to
-encode simple problems, what are fitness functions.
+encode simple problems, what are fitness functions, and how can we adapt
+search algorithms to work well on these problems.
+
+## Chapter 6: Genetic Programming
+
+This chapter introduces the basics of Genetic Programming, starting with
+classical, untyped syntax tree, up to Grammatical Evolution.
