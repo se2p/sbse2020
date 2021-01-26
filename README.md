@@ -39,3 +39,11 @@ parameters that need to be set. We mainly used some reasonably common
 default values in previous chapters. In this chapter we consider the 
 question of how we can optimise these parameters, and control and adapt
 them throughout the search.
+
+## Chapter 8: Advanced Evolutionary Algorithms
+
+This chapter covers more advanced versions of the evolutionary algorithms
+we have covered, such as parallelised versions, memetic algorithms, as 
+well as differential evolution and the extension to estimation of 
+distribution algorithms.
+
